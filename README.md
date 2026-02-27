@@ -1,1 +1,2 @@
 # telco-customer-churn-analysis
+This project analyzes customer churn data from a telecom company to identify the key factors driving customer attrition. Using Excel, Python, and Power BI, I performed data cleaning, exploratory data analysis, and dashboard development. The analysis reveals that contract type, monthly charges, and internet service type significantly influence churn behavior. Business recommendations are provided to reduce churn and improve customer retention.
