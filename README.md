@@ -11,7 +11,7 @@ The telecom company is experiencing a significant rate of customer churn, which 
 - Provide actionable, data-driven recommendations to reduce churn
 The ultimate goal is to support strategic decision-making by enabling the company to implement targeted retention initiatives, improve customer satisfaction, and enhance overall customer lifetime value
 # DATASET DESCRIPTION
-The dataset contains over 7,000 customer records, including demographic information, account details, subscribed services, billing data, and churn status. The target variable is Churn (Yes/No). Key features include tenure, contract type, internet service, monthly charges, and payment method.
+The Telco Customer Churn Dataset contains information about telecom customers and whether they have discontinued their service. The dataset includes several categories of variables such as customer information (gender, senior citizen status, partner, and dependents), account information (tenure, contract type, payment method, monthly charges, and total charges), and services subscribed by customers (phone service, internet service, online security, tech support, and streaming TV or movies). The target variable in the dataset is Churn, which indicates whether a customer has left the company or continues using the service (Yes/No).
 # TOOLS USED
 - Excel – pivot analysis,visualization
 - Python – Data cleaning,Data analysis (Pandas, Matplotlib, Seaborn),
