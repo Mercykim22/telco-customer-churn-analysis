@@ -25,6 +25,7 @@ Converted data types
 ![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/b87a3d73ef79ee8df57164177109400161e233e7/images/Churn%20vs%20contract%20type.PNG)
 - Monthly charges vs churn
 - Tenure vs churn
+  ![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/5c3c0dd7d414bc42c10d967b7f634ae1d8a0ef09/images/churn%20rate%20by%20tenure%20line%20graph.PNG)
 - Internet service impact
 # KEY INSIGHTS
 - Customers on month-to-month contracts churn more
