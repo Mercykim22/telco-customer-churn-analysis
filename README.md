@@ -22,6 +22,7 @@ Converted data types
 # Exploratory Data Analysis (EDA)
 - Churn rate percentage
 - Contract type vs churn
+![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/b87a3d73ef79ee8df57164177109400161e233e7/images/Churn%20vs%20contract%20type.PNG)
 - Monthly charges vs churn
 - Tenure vs churn
 - Internet service impact
