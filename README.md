@@ -26,6 +26,7 @@ Converted data types
 - Monthly charges vs churn
 - Tenure vs churn
   ![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/5c3c0dd7d414bc42c10d967b7f634ae1d8a0ef09/images/churn%20rate%20by%20tenure%20line%20graph.PNG)
+ As tenure increases, the line drops sharply, meaning customers who stay longer are less likely to leave.
 - Internet service impact
   ![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/c63b101d4633de8fabeccd0939b903027778f3d0/images/Churn%20vs%20internet%20service.PNG)
 # KEY INSIGHTS
