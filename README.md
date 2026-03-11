@@ -29,7 +29,7 @@ The analysis shows that the overall churn rate is approximately 27%, indicating 
 - Monthly charges vs churn
 - Tenure vs churn
   ![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/5c3c0dd7d414bc42c10d967b7f634ae1d8a0ef09/images/churn%20rate%20by%20tenure%20line%20graph.PNG)
-The line graph shows a negative relationship between tenure and churn rate. Customers with shorter tenure exhibit significantly higher churn, while customers who remain with the company for longer periods show much lower churn rates.As tenure increases, the line drops sharply, meaning customers who stay longer are less likely to leave.
+The line graph shows a negative relationship between tenure and churn rate. Customers with shorter tenure exhibit significantly higher churn, while customers who remain with the company for longer month periods show much lower churn rates.As tenure increases, the line drops sharply, meaning customers who stay longer are less likely to leave.
 - Internet service impact
   ![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/c63b101d4633de8fabeccd0939b903027778f3d0/images/Churn%20vs%20internet%20service.PNG)
 
