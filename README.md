@@ -18,6 +18,7 @@ The Telco Customer Churn Dataset contains information about telecom customers an
 - Power BI – Interactive dashboard
 # Data Cleaning Process
 Handled missing values
+
 Converted data types
 # Exploratory Data Analysis (EDA)
 - Churn rate percentage
