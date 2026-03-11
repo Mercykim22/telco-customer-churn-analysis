@@ -34,6 +34,11 @@ The analysis shows that the overall churn rate is approximately 27%, indicating 
   ![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/c63b101d4633de8fabeccd0939b903027778f3d0/images/Churn%20vs%20internet%20service.PNG)
 
 The bar graph shows that customers using Fiber Optic internet exhibit the highest churn rate compared to DSL and customers without internet service. This suggests that internet service type, particularly Fiber Optic, may be associated with higher customer dissatisfaction or higher service costs.
+
+-impact of churn by payment method
+ ![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/ffe9bc9a7dfbe2f51f499207124b73e9face5fb8/images/impact%20of%20churn%20by%20payment%20method.PNG)
+ 
+The bar graph indicates that payment method has an impact on churn. Customers who use electronic checks exhibit the highest churn rate, while those using automatic payment methods such as credit cards or bank transfers show significantly lower churn rates. This suggests that automated payment options may be associated with stronger customer retention
 # KEY INSIGHTS
 - Customers on month-to-month contracts churn more
 - High monthly charges increase churn risk
