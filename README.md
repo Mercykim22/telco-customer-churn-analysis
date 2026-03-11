@@ -29,6 +29,7 @@ Converted data types
  As tenure increases, the line drops sharply, meaning customers who stay longer are less likely to leave.
 - Internet service impact
   ![image alt](https://github.com/Mercykim22/telco-customer-churn-analysis/blob/c63b101d4633de8fabeccd0939b903027778f3d0/images/Churn%20vs%20internet%20service.PNG)
+
 The bar graph shows that customers using Fiber Optic internet exhibit the highest churn rate compared to DSL and customers without internet service. This suggests that internet service type, particularly Fiber Optic, may be associated with higher customer dissatisfaction or higher service costs.
 # KEY INSIGHTS
 - Customers on month-to-month contracts churn more
